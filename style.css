@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    background-image: url(brick.png);
+}
+.heading img{
+    display: inline;
+}
+.heading button{
+    border: 5px solid black;
+    float: right;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    width: 90%;
+    background-position: center;
+    padding: 40px;
+}
